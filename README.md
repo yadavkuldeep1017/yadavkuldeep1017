@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yadavkuldeep1017&theme=dark)](https://git.io/streak-stats)
 ![](https://leetcard.jacoblin.cool/yadavkuldeep1017?ext=heatmap)
 ![](https://gfgstatscard.vercel.app/yadavkuldeep1017?theme=light)
 
