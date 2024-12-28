@@ -1,14 +1,9 @@
-
+![](https://leetcard.jacoblin.cool/yadavkuldeep1017?ext=activity)
 ## 🌟 Competitive Programming Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/yadavkuldeep1017)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/yadavkuldeep1017/profile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/yadavkuldeep1017)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/yadavkuldeep10)
 
-## 📈 GitHub Stats
-![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavkuldeep1017&show_icons=true&theme=radical)
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavkuldeep1017&layout=compact&theme=radical)
 
 ## 🛠️ Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
