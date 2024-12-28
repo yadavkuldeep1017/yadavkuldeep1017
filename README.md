@@ -1,16 +1,14 @@
-# Hi there, I'm Kuldeep Yadav 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a bit about me:
+## 🌟 Competitive Programming Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/yadavkuldeep1017)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/yadavkuldeep1017/profile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef)](https://www.codechef.com/users/yadavkuldeep1017)
 
-## 🚀 About Me
-- 🔭 I’m currently working on [Your Project Name/Description]
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Open Source Projects/Collaboration Ideas]
-- 🤔 I’m looking for help with [Specific Topic/Project]
-- 💬 Ask me about [Your Expertise/Interest Areas]
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something Interesting About You]
+## 📈 GitHub Stats
+![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavkuldeep1017&show_icons=true&theme=radical)
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavkuldeep1017&layout=compact&theme=radical)
 
 ## 🛠️ Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -23,17 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-## 📈 GitHub Stats
-![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavkuldeep1017&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yadavkuldeep1017&theme=radical)
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavkuldeep1017&layout=compact&theme=radical)
-
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/kuldeep-yadav-8aa972233/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
