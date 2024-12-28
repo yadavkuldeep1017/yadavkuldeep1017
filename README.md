@@ -1,4 +1,5 @@
 ![](https://leetcard.jacoblin.cool/yadavkuldeep1017?ext=heatmap)
+![](https://gfgstatscard.vercel.app/yadavkuldeep1017?theme=light)
 
 ## 🌟 Competitive Programming Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/yadavkuldeep1017)
